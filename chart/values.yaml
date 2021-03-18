@@ -1,0 +1,5 @@
+source: 
+  name: private-registry
+  namespace: bigbang
+destination:
+  name: 
